@@ -10,7 +10,7 @@ A 2D RPG sidescroller game developed in Unity. Features include Art(Background,F
 <h1>Carnivorous-Website</h1>
 Website built for personal buisiness(Ecommerce) selling Carnivorous plants.
 
-<b>Technologies: </b><i>VSCode,React.js,SCSS,Node.js,Express.js,Stripe.js,Redux,built-in React testing,Database Undetermined</i>
+<b>Technologies: </b><i>VSCode,React.js,SCSS,Node.js,Express.js,Stripe.js,Redux,built-in React testing, MySQL</i>
 
 <h3>No link/Domain avialable yet</h3>
 
@@ -18,6 +18,7 @@ Website built for personal buisiness(Ecommerce) selling Carnivorous plants.
 <hr>
 <h1>Excel-Macros</h1>
 <b>Technology: </b><i>Excel,Macros,Visual Basic Scripts</i>
+
 These files are excel sheets that I used and made when helping the Industrial Engineer while working at UPS.
 
 <img src="Images/Screenshot%202020-04-24%2015.36.58.png">
@@ -29,7 +30,7 @@ These files are excel sheets that I used and made when helping the Industrial En
   <li>Design/Analysis</li>
   <li>HS Java</li>
   <li>C++</li>
-  <li>ML (Example: Hair Segmentation)</li>
+  <li>Machine Learning (Example: Hair Segmentation)</li>
   <img src="Images/ML1.png" width = "100">
   <img src="Images/ML2.png" width = "100">
   <img src="Images/ML3.png" width = "100">
