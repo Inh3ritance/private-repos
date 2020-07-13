@@ -7,15 +7,6 @@
 A 2D RPG sidescroller game developed in Unity. Features include Art(Background,Foreground,Character,Enemies,etc.), Scripts(Movement,Ai,Interactions,Weapons,Health), Audio and scenes.
 <img src="Images/Screenshot%202020-04-24%2020.36.06.png">
 <hr>
-<h1>Carnivorous-Website</h1>
-Website built for personal buisiness(Ecommerce) selling Carnivorous plants.
-
-<b>Technologies: </b><i>VSCode,React.js,SCSS,Node.js,Express.js,Stripe.js,Redux,built-in React testing, MySQL</i>
-
-<h3>No link/Domain avialable yet</h3>
-
-<img src="Images/Screenshot%202020-04-24%2017.27.22.png" width = "500">
-<hr>
 <h1>Excel-Macros</h1>
 <b>Technology: </b><i>Excel,Macros,Visual Basic Scripts</i>
 
